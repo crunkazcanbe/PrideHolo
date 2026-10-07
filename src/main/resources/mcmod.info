@@ -1,0 +1,12 @@
+[{
+  "modid": "prideholo",
+  "name": "Pride Holo",
+  "description": "Look at a chest, machine, tank or villager and a hologram shows what's inside and what it's doing: items, fluids, energy and progress. Works with any mod that uses Forge's item, fluid or energy systems.",
+  "version": "${version}",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/crunkazcanbe/PrideHolo",
+  "authorList": ["crunkazcanbe", "Dries007", "ChromaPIE"],
+  "credits": "Built on HoloInventory by Dries007 (MIT) and its UEL update by ChromaPIE. Part of the Pride modpack.",
+  "requiredMods": ["forge"],
+  "useDependencyInformation": true
+}]
